@@ -76,7 +76,7 @@ PAUSE
 
 ECHO.
 ECHO Initiating CCleaner ...
-start CCleaner\ccsetup301_slim.exe
+start CCleaner\ccsetup307_slim.exe
 ::/D=C:\dirhere
 ::/S
 ::/AUTO
