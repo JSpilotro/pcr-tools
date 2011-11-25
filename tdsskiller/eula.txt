@@ -1,10 +1,10 @@
 END USER LICENSE AGREEMENT
 
-Kaspersky Lab ZAO (the ìRightholderî) is an owner of all rights, whether exclusive or otherwise to the Software.
+Kaspersky Lab ZAO (the ‚ÄúRightholder‚Äù) is an owner of all rights, whether exclusive or otherwise to the Software.
 
 By using the Software You consent to be bound by the terms and conditions of this agreement.
 
-The Rightholder hereby grants You a non-exclusive perpetual license to store, load, install, execute, and display (to ìuseî) the free of charge Software that will substantially perform according to the specifications and descriptions set forth on http://support.kaspersky.com/viruses. The Software should be used as an auxiliary tool for removing threats from Your computer as described on http://support.kaspersky.com/viruses. The Rightholder doesnít guarantee complete removal of threats and fixing issues caused by these threats.
+The Rightholder hereby grants You a non-exclusive perpetual license to store, load, install, execute, and display (to ‚Äúuse‚Äù) the free of charge Software that will substantially perform within the scope of functionality set forth on http://support.kaspersky.com/viruses. The Software should be used as an auxiliary tool for removing threats from Your computer as described on http://support.kaspersky.com/viruses. The Rightholder doesn‚Äôt guarantee complete removal of threats and fixing issues caused by these threats.
 
 No technical support for the Software is available.
 
@@ -12,4 +12,4 @@ You shall not emulate, modify, decompile, or reverse engineer the Software or di
 
 THE SOFTWARE IS PROVIDED "AS IS" AND THE RIGHTHOLDER MAKES NO REPRESENTATION AND GIVES NO WARRANTY AS TO ITS USE OR PERFORMANCE. EXCEPT FOR ANY WARRANTY, CONDITION, REPRESENTATION OR TERM THE EXTENT TO WHICH CANNOT BE EXCLUDED OR LIMITED BY APPLICABLE LAW THE RIGHTHOLDER AND ITS PARTNERS MAKE NO WARRANTY, CONDITION, REPRESENTATION, OR TERM (EXPRESS OR IMPLIED, WHETHER BY STATUTE, COMMON LAW, CUSTOM, USAGE OR OTHERWISE) AS TO ANY MATTER INCLUDING, WITHOUT LIMITATION, NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, SATISFACTORY QUALITY, INTEGRATION, OR APPLICABILITY FOR A PARTICULAR PURPOSE. YOU ASSUME ALL FAULTS, AND THE ENTIRE RISK AS TO PERFORMANCE AND RESPONSIBILITY FOR SELECTING THE SOFTWARE TO ACHIEVE YOUR INTENDED RESULTS, AND FOR THE INSTALLATION OF, USE OF, AND RESULTS OBTAINED FROM THE SOFTWARE. WITHOUT LIMITING THE FOREGOING PROVISIONS, THE RIGHTHOLDER MAKES NO REPRESENTATION AND GIVES NO WARRANTY THAT THE SOFTWARE WILL BE ERROR-FREE OR FREE FROM INTERRUPTIONS OR OTHER FAILURES OR THAT THE SOFTWARE WILL MEET ANY OR ALL YOUR REQUIREMENTS WHETHER OR NOT DICLOSED TO THE RIGHTHOLDER.
 
-© 1997-2010 Kaspersky Lab ZAO. All Rights Reserved.
+¬© 1997-2011 Kaspersky Lab ZAO. All Rights Reserved.
