@@ -4,18 +4,11 @@ CLS
 @echo off
 TITLE Starting up ToolBox 
 
-
-
-
 :: CHECK WINDOWS VERSION
 for /f "tokens=2 delims=[]" %%x in ('ver') do set WINVER=%%x 
 set WINVER=%WINVER:Version =% 
 
 ECHO %WINVER%
-
-
-
-
 
 :COMMONTOOLS
 
