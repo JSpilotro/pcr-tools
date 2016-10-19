@@ -153,19 +153,14 @@ cd %mbampath%
 start unins000.exe /SILENT
 PAUSE
 
-::radialpoint unistall
-::C:\Program Files\Radialpoint Malware Removal Tool/unins000.exe
+::rp unistall
+::C:\Program Files\RP Malware Removal Tool/unins000.exe
 
 ECHO.
 ECHO Unistall SuperAntiSpyware... 
 
 cd %saspath%
 start Uninstall.exe
-
-
-
-
-
 
 
 :END
